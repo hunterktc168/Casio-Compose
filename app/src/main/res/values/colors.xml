@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="studio_ink">#FF101319</color>
+    <color name="studio_panel">#FF181E28</color>
+    <color name="studio_teal">#FF54D6C4</color>
+    <color name="studio_amber">#FFFBBF24</color>
+</resources>

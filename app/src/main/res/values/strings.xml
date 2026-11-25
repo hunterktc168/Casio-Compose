@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CDP-S100 Guide</string>
+    <string name="brand_prefix">CDP</string>
+    <string name="brand_suffix">-S100</string>
+    <string name="brand_subtitle">INTELLIGENCE GUIDE</string>
+    <string name="tab_guide">Guide</string>
+    <string name="tab_sounds">Sounds</string>
+    <string name="tab_midi">MIDI</string>
+    <string name="tab_studio">Studio</string>
+    <string name="hero_kicker">DIGITAL PIANO • MIDI • AUDIO • SOFTWARE</string>
+    <string name="hero_title_line1">CASIO</string>
+    <string name="hero_title_line2">CDP-S100</string>
+    <string name="hero_description">More than a digital piano. A full-size MIDI keyboard, software instrument controller and entry point into digital music production.</string>
+    <string name="hero_image_cd">Casio CDP-S100 digital piano in a dark music production studio</string>
+    <string name="search_specs_hint">Search specs (e.g. polyphony, 10.5 kg, damper)…</string>
+    <string name="clear_search">Clear search</string>
+    <string name="metronome_play">Start metronome</string>
+    <string name="metronome_stop">Stop metronome</string>
+    <string name="metronome_tap">Tap Tempo</string>
+    <string name="midi_refresh">Scan MIDI devices</string>
+    <string name="midi_clear_log">Clear log</string>
+    <string name="open_website">Official website</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "CDP-S100 Guide",
+  "description": "Interactive Casio CDP-S100 digital piano guide, tone & effects explorer, 20-255 BPM tap metronome, and live USB-MIDI monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
